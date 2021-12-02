@@ -1,6 +1,12 @@
 .header-logo{
+  float: left;
   font-size: 20px
   padding: 20px 10px;
   border: 1px solid red;
   margin: 20px
+}
+
+.header-list li{
+  list-style: none;
+  float: left;
 }
